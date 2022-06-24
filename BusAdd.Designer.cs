@@ -53,6 +53,7 @@
             this.BusModelTB.Name = "BusModelTB";
             this.BusModelTB.Size = new System.Drawing.Size(170, 27);
             this.BusModelTB.TabIndex = 1;
+            
             // 
             // PlaceCountTB
             // 
@@ -61,6 +62,7 @@
             this.PlaceCountTB.Name = "PlaceCountTB";
             this.PlaceCountTB.Size = new System.Drawing.Size(170, 27);
             this.PlaceCountTB.TabIndex = 2;
+            
             // 
             // button1
             // 

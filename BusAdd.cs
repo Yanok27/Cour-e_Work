@@ -39,5 +39,7 @@ namespace BusStation
         {
             this.DialogResult = DialogResult.No;
         }
+
+       
     }
 }
